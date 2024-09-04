@@ -1,4 +1,4 @@
-# Fall Guys KURDiOS
+# Fall Guys KURDiOS v11.2.0
 
 ## بۆ هەر کێشەیەک دەتوانی بێتە تیلیگرامەکەمان
 **Telegram KURDiOS:** [Telegram KURDiOS](https://t.me/KURD_i0S)  
