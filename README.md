@@ -8,7 +8,7 @@
 # هەنگاوەکانی دابەزاندنی Fall Guys - KURDiOS
 
 ## هەنگاوی یەکەم 1 - دابەزاندنی IPAـــی یاریەکە کە لینکەکەم داناوە لە خوارەوە بۆتان.
-**[گرتە لەم لینکە بکە بۆ دابەزاندنی Fall Guys](https://github.com/KURD-IOS/Video-Star/releases/download/Video-Star-KURDiOS/Video.Star.-.KURDiOS.ipa)**
+**[گرتە لەم لینکە بکە بۆ دابەزاندنی Fall Guys](https://github.com/KURD-IOS/FallGuys-new-Update/releases/download/Fall-Guys-KURDiOS/FallGuys.-.KURDiOS.ipa)**
 ---
 ## هەنگاوی دووەم 2  :- ئەتوانن بەرێگای یەکێک لە Trollstore , Scarlet , sierra , Esign , Gbox , Sideloadly , Etc... دایبەزێنن ( جگە لە ترۆڵستۆر بۆ هەریەک لەوانەی تر پێویستان بە Certificate دەبێت )
 
